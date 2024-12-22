@@ -60,7 +60,7 @@ The script provides insights into the most important features for predicting cus
 
 How to Run
 Clone the repository to your local machine:
-git clone https://github.com/MrKintu/YIkGrzRvc8amq1Sj.git
+git clone [https://github.com/MrKintu/YIkGrzRvc8amq1Sj.git](https://github.com/MrKintu/YIkGrzRvc8amq1Sj.git)
 cd customer-happiness-prediction
 
 Install the required dependencies:
