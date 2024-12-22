@@ -37,6 +37,7 @@ The data is visualized using plots to understand the distribution of responses a
 Bar plots of the target variable.
 Box plots for feature distribution.
 Pair plots and correlation heatmaps to understand the relationships between features.
+
 3. Model Definition and Training
 A Random Forest Classifier is used to build the prediction model. The model is trained on the preprocessed data, with class imbalance handled by oversampling using SMOTE.
 
@@ -53,6 +54,7 @@ Accuracy Score
 Classification Report
 ROC-AUC Score
 Confusion Matrix
+
 7. Insights and Conclusions
 The script provides insights into the most important features for predicting customer happiness and discusses how a reduced set of features can simplify the model while maintaining performance.
 
